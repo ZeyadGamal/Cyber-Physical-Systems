@@ -1,0 +1,24 @@
+TRAS ver.2.1
+Copyright (C) 2007 INTECO Ltd.
+All Rights Reserved
+
+License Agreement
+
+One copy of "TRAS" software may either be used by a single
+person who uses the software personally on one computer.
+
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE SOLD "AS IS" AND
+WITHOUT WARRANTIES AS TO PERFORMANCE OF MERCHANTABILITY OR ANY
+OTHER WARRANTIES WHETHER EXPRESSED OR IMPLIED. 
+
+Inteco RESERVES THE RIGHT TO REVISE PROGRAM SET AND TO MAKE
+CHANGES TO IT FROM TIME TO TIME WITHOUT OBLIGATION TO NOTIFY ANYONE
+OF SUCH REVISION OR CHANGE.
+
+INTECO Sp z o.o.
+Lea 203
+30-133 Krakow, POLAND
+Phone/Fax (+48) 124304961
+inteco@kki.krakow.pl
+www.inteco.com.pl
